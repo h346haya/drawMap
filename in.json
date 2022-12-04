@@ -5,7 +5,7 @@
         "x[0] * x[0] +  data.dic['params'][1]"
     ],
     "xrange": [
-        -2.0,
+        -.0,
         2.0
     ],
     "yrange": [
